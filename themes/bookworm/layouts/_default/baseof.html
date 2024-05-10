@@ -2,6 +2,12 @@
 <html lang="{{ site.LanguageCode | default `en-US` }}">
 {{ partial "head.html" . }}
 
+<style>
+  .flex-fill .section-sm {
+    padding-top: 30px !important;
+  }
+</style>
+
 <body class="d-flex flex-column min-vh-100">
   {{ partialCached "preloader.html" . }}
   {{ partial "header.html" . }}
