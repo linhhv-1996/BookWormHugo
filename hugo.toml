@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://localhost:1313/"
+baseURL = "https://bookwormhugo.onrender.com/"
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm"
 # post pagination
