@@ -40,10 +40,10 @@ Earned money is the estimate of all the money coming into your house such as wif
 
 Thus, Earned Money may include:
 
-1. Husband/wife's main salary (If you are paid weekly, you can separate it into "Weekly salary 1", "Weekly salary 2"... If your income is unstable, estimate the lowest salary)
-2. Overtime pay
-3. Bonus
-4. Income outside the main salary
+- Husband/wife's main salary (If you are paid weekly, you can separate it into "Weekly salary 1", "Weekly salary 2"... If your income is unstable, estimate the lowest salary)
+- Overtime pay
+- Bonus
+- Income outside the main salary
 
 **2. Expense**
 
@@ -51,14 +51,14 @@ Expenses are all the amounts of money that will leave your household in a month.
 
 Therefore, this Expense category can include:
 
-1. **Savings**: Necessary, if you have enough savings in the future, you can convert it into investment money
-2. **Giving**: Donations/gifts/charity/wedding...
-3. **Housing**: Amounts related to housing maintenance: rent/house installments, electricity, water, gas, telephone, internet, cable TV...
-4. **Transportation**: Travel expenses: gasoline, bus tickets, parking fees, vehicle warranty fees...
-5. **Food**: Food expenses: market fees, restaurant fees, coffee fees...
-6. **Lifestyle**: Other life expenses: clothes, tuition, hiring a maid, gym membership, pet care... In addition, it is recommended to add to this section the "Miscellaneous expenses" section to calculate these expenses. Not sure where to put it.
-7. **Insurance & Tax**: Insurance and tax costs: health insurance, life insurance, car insurance, income tax...
-8. **Debt**: Debts that must be paid monthly such as interest and principal. During the debt period, all savings (except the initial $1,000) should be put here to focus on paying off debt. Try not to get into more debt. Pay off debt as quickly as possible.
+- **Savings**: Necessary, if you have enough savings in the future, you can convert it into investment money
+- **Giving**: Donations/gifts/charity/wedding...
+- **Housing**: Amounts related to housing maintenance: rent/house installments, electricity, water, gas, telephone, internet, cable TV...
+- **Transportation**: Travel expenses: gasoline, bus tickets, parking fees, vehicle warranty fees...
+- **Food**: Food expenses: market fees, restaurant fees, coffee fees...
+- **Lifestyle**: Other life expenses: clothes, tuition, hiring a maid, gym membership, pet care... In addition, it is recommended to add to this section the "Miscellaneous expenses" section to calculate these expenses. Not sure where to put it.
+- **Insurance & Tax**: Insurance and tax costs: health insurance, life insurance, car insurance, income tax...
+- **Debt**: Debts that must be paid monthly such as interest and principal. During the debt period, all savings (except the initial $1,000) should be put here to focus on paying off debt. Try not to get into more debt. Pay off debt as quickly as possible.
 
 **3. Remaining: Money earned — Money spent = 0**
 

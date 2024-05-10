@@ -2,8 +2,8 @@ body {
   color: $gray;
   background-color: $white;
   font-family: $font-primary;
-  font-weight: 500;
-  font-size: 16px;
+  font-weight: 300;
+  font-size: 17px;
   line-height: 1.65;
 }
 
@@ -195,7 +195,7 @@ a.post-title:hover,
   }
 
   h3 {
-    margin-top: 40px;
+    margin-top: 20px;
   }
 
   ol,
@@ -276,7 +276,7 @@ a.post-title:hover,
 
   ul {
     margin-bottom: 20px;
-    list-style-type: none;
+    list-style-type: decimal;
 
     li {
       padding-left: 20px;
@@ -291,6 +291,7 @@ a.post-title:hover,
         background: $color-primary;
         left: 3px;
         top: 8px;
+        display: none;
       }
     }
 
