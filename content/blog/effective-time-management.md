@@ -1,7 +1,7 @@
 ---
 title: "Effective Time Management"
 date: 2024-05-07T11:33:57+06:00
-image: "18.webp"
+image: sample.jpeg
 tags: ["Time Management"]
 author: "Lubana Era"
 ---
@@ -58,7 +58,7 @@ To apply these 3 golden rules in practice, here are 6 methods you can do today t
 
 ### 1. THE EISENHOWER MATRIX
 
-![Matrix](/17.webp#center "Matrix")
+![Matrix](sample.jpeg#center "Matrix")
 
 One of the best ways to prioritize your to-do list is to divide it according to the Eisenhower matrix.
 

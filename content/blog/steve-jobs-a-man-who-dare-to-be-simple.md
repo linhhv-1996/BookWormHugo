@@ -1,7 +1,7 @@
 ---
 title: "Steve Jobs: A Man Who Dare To Be Simple"
 date: 2024-05-06T11:33:57+06:00
-image: "steve-jobs.webp"
+image: sample.jpeg
 tags: ["Steve Jobs"]
 author: "Lubana Era"
 ---
@@ -16,7 +16,7 @@ The day Steve Jobs said goodbye to the world was also a rare day, when the whole
 
 ### Childhood
 
-![Child hood](/jobs-childhood.webp#center "Child hood")
+![Child hood](sample.jpeg#center "Child hood")
 
 Steve Jobs was born on February 24, 1955, in San Francisco, USA.
 
@@ -50,7 +50,7 @@ In college, Steve learned more deeply about the spiritual world. He admitted tha
 
 Jobs's attachment to the Eastern spiritual world, especially Zen Buddhism, is not just a temporary passion. He pursued it with all his heart like his inherent personality. We can see this through Jobs's simple and sophisticated aesthetic.
 
-![Apple](/1.webp#center "Apple")
+![Apple](sample.jpeg#center "Apple")
 
 Besides books about spirituality, vegetarianism is also something that Steve pursued throughout his early college years. The book that inspired this habit for Jobs was Diet for a Small Planet. According to his friend's description, Steve now lives solely on Roman Meal cereal. He often buys a large box to last a week.
 
@@ -66,7 +66,7 @@ Surprisingly, Reed school agreed to that request. The student administrator, Dud
 
 From that moment on, Steve was free to take the courses he wanted. Among them, there was a subject that honed his sophistication, and also directly influenced later Apple devices. It is calligraphy.
 
-![Calligraphy](/2.webp#center "Calligraphy")
+![Calligraphy](sample.jpeg#center "Calligraphy")
 
 > "I learned about writing serif and sans-serif typefaces, how to customize the spacing between characters, and how to make stylized letters more impressive. The art of calligraphy is beautiful, classic and rich in artistic talent, something that science cannot capture. And I find it very attractive."
 
@@ -86,7 +86,7 @@ However, by the early 70s, society had changed again. As many analysts have prov
 
 In January 1975, the first personal computer was introduced in a magazine. It's called the Altair, and consists of a block of parts soldered to a simply made circuit board. But technology people, when looking at Altair, understood that this was a signal for the dawn of a new era, the era of personal computers. 2 months later, Woz saw this computer with his own eyes.
 
-![Computer](/3.webp#center "Computer")
+![Computer](sample.jpeg#center "Computer")
 
 The Homebrew Computer Club is seen as a fusion of the technology movement and the counterculture. The club's first meeting took place on March 5, 1975, including a session devoted to launching the new Altair computer product. Woz participated in this meeting, which was one of the most important evenings of his life. Woz has seen the specifications for Altair's processor. From then on, he was enlightened.
 
@@ -104,7 +104,7 @@ Steve is like that. That name reflected his personality. Apples are the fruit he
 
 On April 1, 1976, Apple computer was founded with three shareholders, including Steve Jobs, Stephen Wozniak, and Ronald Wayne. But not long after, Wayne left, leaving the Apple ship for the Steve duo to steer. Woz was assigned the main responsibility for operating electronic technology, while Jobs would be in charge of business and marketing related matters.
 
-![Steve,Ronald,Woz](/4.webp#center "Steve,Ronald,Woz")
+![Steve,Ronald,Woz](sample.jpeg#center "Steve,Ronald,Woz")
 
 The Apple I was first introduced by Jobs and Woz in a presentation at the Homebrew computer club. Woz demonstrated what Apple has over competing computers, a computer with an easy-to-use keyboard and all the components integrated. Only a few viewers pay attention to Apple products, but among them, there is Paul Terrell.
 
@@ -114,7 +114,7 @@ Jobs's house in Los Altos became the assembly point for 50 Apple I circuit board
 
 Steve not only made 50 computers for Paul's order, but also made 50 more to sell to friends, and 100 for retail. The wholesale price that Jobs and Paul agreed on was $500 for each Apple I. But when it came to retail, Jobs raised the price to $666.66, which conflicted with Woz when he thought they should only sell them at a price just enough to cover production costs. Steve is different, he wants high profits, and the price of $666.66 he chose is 3 times the production cost.
 
-![1976](/5.webp#center "1976")
+![1976](sample.jpeg#center "1976")
 
 The Apple I's success came not only from the fact that it was one of the first personal computers to be marketed, but also from the way Jobs and Wozniak approached sales and marketing of the product. The $666.66 price that Jobs set may be controversial, but it also reflects Jobs' business strategy: creating value, not only through the product but also through the way the product is presented and sold. to the market. This has helped create an image of Apple as a groundbreaking company, willing to challenge convention and deliver products that are not only technically powerful but also superior in terms of design and user experience. use.
 
@@ -126,7 +126,7 @@ Apple had now become one of the pioneering companies in Silicon Valley, and Stev
 
 Jobs also had hygiene problems. He continued to maintain a strict vegetarian diet, claiming that this regime would help him avoid having to bathe frequently. Sometimes, to relieve stress, Jobs even washed his feet in the toilet, an unpleasant action.
 
-![Apple 1](/6.webp#center "Apple 1")
+![Apple 1](sample.jpeg#center "Apple 1")
 
 Tension occurs in the relationship between Woz and Steve. Woz hates the childish personality and conflicts and discord that Steve causes. During the design of the Apple II, Woz had a conflict with Steve, who believed that the device needed eight slots to help users plug in additional peripherals. Steve only wanted the number 2 slots, this time Woz was determined and did not compromise. Woz's idea was eventually approved, but he also saw that his power had been encroached upon by Steve within the company.
 
@@ -159,7 +159,7 @@ Those who worked closely with Steve, including Wozniak, recognized this problem 
 
 Following the development of the Macintosh computer, tensions between Jobs and Sculley - Apple's CEO at that time - continuously escalated.
 
-![Jobs](/7.webp#center "Jobs")
+![Jobs](sample.jpeg#center "Jobs")
 
 Scully was appointed CEO of Apple in 1983. Steve Jobs invited him from PepsiCo to help Apple transform from a startup into a strong business. The first time Sculley visited Apple, he was extremely impressed by Apple's work culture, an atmosphere as rustic and comfortable as Steve's style. Jobs also liked Sculley's understanding. The two quickly became "souls".
 
@@ -187,7 +187,7 @@ In the days that followed, Jobs sat alone at home. For hours, he played tapes of
 
 #### Comeback
 
-![Comeback](/8.webp#center "Comeback")
+![Comeback](sample.jpeg#center "Comeback")
 
 In Greek mythology, Prometheus is a special god. Prometheus created humanity from mud, raised people, taught them from astronomical knowledge to agriculture. Prometheus loved his children more than his father, Zeus, so he stole the divine fire to give to humanity.
 
@@ -203,7 +203,7 @@ And finally, like the Prometheus rescued by Hercules, Steve also has the opportu
 
 …..
 
-![1997](/9.webp#center "1997")
+![1997](sample.jpeg#center "1997")
 
 > "Elvis's return could not have created a greater emotion than that," said Jim Carlton, a reporter for the Wall Street Journal.
 
@@ -216,7 +216,7 @@ At this time, Jobs no longer held power like before. Jobs returned initially as 
 Steve's first impression after returning to Apple that the public felt was probably the "Think different" campaign. It's special right in the name. If written grammatically correctly, it should be "think differently". But Jobs wanted to use the word "different" as a noun.
 In addition to commercial advertisements broadcast on television. Steve also created one of the most memorable print advertising campaigns in history. Each flyer is a black-and-white portrait of a historical figure with the Apple Logo and the words "Think Different." Most of them are Jobs' personal idols, representing creativity, taking risks, betting their lives to work in different ways.
 
-![Think](/10.webp#center "Think")
+![Think](sample.jpeg#center "Think")
 
 Steve has once again lit the creative fire that Apple had lost. He began to engage more deeply with his child. Steve Jobs became Apple's interim CEO in 1997 and then officially took over as CEO in 2000.
 
@@ -228,7 +228,7 @@ After the success of the iMac, Jobs continued to lead Apple through new and adve
 
 It would be absurd if I dared to conclude anything about the person of Steve Jobs, because his greatness goes beyond what writing can describe. But if I were to choose an image to represent Steve, I would choose a picture of the "yin and yang circle", an image that Steve encountered while poring over the book "Be Here Now".
 
-![Picture](/11.webp#center "Picture")
+![Picture](sample.jpeg#center "Picture")
 
 At first glance at the painting, we might think it represents a contradiction. Like how Steve sees the world in a binary way. Either this product is great, or it's trash. Either you are a genius, otherwise you are trash. He once criticized former President Obama, saying, "He has leadership problems because he doesn't want to offend people or make people angry... Yes, that's not the problem I have."
 

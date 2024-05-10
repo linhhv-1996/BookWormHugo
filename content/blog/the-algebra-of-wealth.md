@@ -3,9 +3,10 @@ title: "The Algebra of Wealth"
 date: 2024-05-05T11:33:57+06:00
 tags: ["Book"]
 author: "Lubana Era"
+image: sample.jpeg
 ---
 
-![The Algebra of Wealth](https://m.media-amazon.com/images/I/51L64SWoqfL._SL500_.jpg "The Algebra of Wealth")
+![The Algebra of Wealth](sample.jpeg "The Algebra of Wealth")
 
 ### Publisher's summary
 

@@ -6,7 +6,8 @@
   {{end}}
   <div class="card-body">
     <ul class="card-meta list-inline mb-2">
-      {{ if .Params.Author }}
+
+      <!-- {{ if .Params.Author }}
       <li class="list-inline-item mb-2">
         {{ with site.GetPage (.Params.Author | urlize | lower) }}
         <a href="{{.Permalink}}" class="card-meta-author">
@@ -19,7 +20,8 @@
         </a>
         {{ end }}
       </li>
-      {{ end }}
+      {{ end }} -->
+
       <li class="list-inline-item mb-2">
         <span>{{.PublishDate.Format "02 Jan, 2006"}}</span>
       </li>
@@ -31,9 +33,9 @@
         </ul>
       </li>
     </ul>
-    <h3 class="mb-3">
+    <h4 class="mb-3">
       <a class="post-title" href="{{.Permalink}}">{{.Title}}</a>
-    </h3>
+    </h4>
     <p>{{ .Summary }}</p>
 
     <!-- <a href="{{.Permalink}}" aria-label="More on {{.Title}}">Read More <i class="las la-angle-right"></i></a> -->

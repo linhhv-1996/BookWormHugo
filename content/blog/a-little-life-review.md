@@ -2,11 +2,13 @@
 title: "A Little Life Review"
 date: 2024-05-07T11:33:57+06:00
 tags: ["Book"]
-image: 12.webp
+image: sample.jpeg
 author: "Lubana Era"
 ---
 
 ### A little life - Hanya Yanagihara
+
+I read this book in a week, it has 720 pages and appeared right when I was busy. Actually, it has exploded since 2015, but I only found out about it by chance now. [A little life](https://amzn.to/3WObA5B) is a book that if you search on Goodreads, you will see 5 star reviews and 1 star reviews; There are reviews that praise everything, there are reviews that curse it all.
 
 > "I have become lost to the world 
 In which I otherwise wasted so much time 
@@ -14,8 +16,6 @@ It means nothing to me
 Whether the world believes me dead 
 I can hardly say anything to refute it 
 For truly, I am no longer a part of the world."
-
-I read this book in a week, it has 720 pages and appeared right when I was busy. Actually, it has exploded since 2015, but I only found out about it by chance now. [A little life](https://amzn.to/3WObA5B) is a book that if you search on Goodreads, you will see 5 star reviews and 1 star reviews; There are reviews that praise everything, there are reviews that curse it all.
 
 Hanya Yanagihara's goal is to write about a character who has too much childhood trauma, and the outcome of that character is never to overcome those dark years. She believes that in real life there are people who are traumatized and never recover or overcome it, so why does literature always have to have a light at the end of the tunnel? Thinking why, she blocked the tunnel.
 

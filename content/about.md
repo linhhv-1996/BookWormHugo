@@ -7,7 +7,7 @@ draft: false
 #caption
 caption:
   enable: true
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
+  title: "Hello, I'm Hoanglinh."
 
 # social
 social:
@@ -28,7 +28,7 @@ social:
 # what_i_do
 what_i_do:
   title: "What I Do"
-  enable: true
+  enable: false
   item:
   - title: "Content Writing"
     icon: "las la-pen-nib"
@@ -43,6 +43,25 @@ what_i_do:
     description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
  
 ---
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+I always ask myself: How can each of us develop our full potential?
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+Over the past ten years, I have answered this question by researching, teaching, practicing, and training on the knowledge and skills necessary to develop yourself and live a life of continuous creativity.
+
+### You are more creative than you think!
+
+In today's knowledge economy, we face constant change. Work changes. Relationships change. Work projects require complex skills and knowledge. Faced with that context, specialization is an advantage but also a disadvantage. To gain an added advantage in a constantly changing market, you need the skills to self-manage the ideas and knowledge you have accumulated. Those skills include:
+
+1. Design a personal knowledge management system
+2. Applying technology in self-management
+3. Design core habits based on behavioral and brain science
+4. Design a life worth living based on your values, vision, and goals
+
+If you think you're not creative enough to turn your ideas into reality, you're not alone. I used to be like that too. And now, I'm here to share with you everything I've learned.
+
+### Goodbye and see you soon!
+
+Thank you for visiting home.
+
+I feel honored to be a part of your learning and growth journey. Your time and mental resources are extremely valuable, so I will do my best to make every moment you are here worth.
+
+I sincerely hope that you will have enjoyable moments reading my articles. If you find something useful for you then I'm happy. Please message me via email ***linhhv.work@gmail.com***.

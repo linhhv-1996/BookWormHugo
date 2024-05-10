@@ -1,7 +1,7 @@
 ---
 title: "Give Every Money Save A Purpose"
 date: 2024-05-07T11:33:57+06:00
-image: "22.webp"
+image: sample.jpeg
 tags: ["Financial Management"]
 author: "Lubana Era"
 ---
