@@ -88,5 +88,3 @@ With this plan, I gradually no longer feel like eating instant noodles when I ha
 ### Conclude
 
 Habits help us spread our wings to freely fly through life. To adapt to life, there is nothing more than the ability to continuously design for yourself good habits. Darkness can only be dispelled when light shines on it. Create your own light from the candlelight of good habits. To change, we don't need a will as high as a mountain. What we need is understanding, creativity and a lot of practice. May you become a better version of yourself every day, starting with habits.
-
-
