@@ -3,11 +3,8 @@ title: "Listen For The Lie"
 date: 2024-05-04T11:33:57+06:00
 tags: ["Book"]
 author: "Lubana Era"
-image: sample.jpeg
+image: images/post/17.png
 ---
-
-![Listen For The Lie](sample.jpeg "Listen For The Lie")
-
 ### Publisher's summary
 
 > "A world-class whodunit."—Stephen King

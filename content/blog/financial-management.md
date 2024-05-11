@@ -2,7 +2,7 @@
 title: "Financial Management"
 date: 2024-05-08T11:33:57+06:00
 tags: ["Financial Management"]
-image: sample.jpeg
+image: images/post/09.png
 author: "Lubana Era"
 ---
 

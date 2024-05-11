@@ -1,8 +1,8 @@
 ---
 title: "Time Traveler"
 date: 2024-05-02T11:33:57+06:00
-tags: ["Science"]
-image: sample.jpeg
+tags: ["Science", "History"]
+image: images/post/18.png
 author: "Lubana Era"
 ---
 
@@ -14,7 +14,6 @@ At this time, the officers realized that this young man was not as normal as the
 
 After approaching the young man, the police immediately questioned the young man's identification documents.
 
-![The boy from nowhere](sample.jpeg#center "The boy from nowhere")
 
 The police felt even more confused when they began reading the information in Sergei's identification card. According to the identification card above, Sergei was born in 1932, which means that this year he should have been 74 years old, but in fact he looked like he was just over 20 years old.
 
@@ -26,15 +25,11 @@ However, another problem appeared, even though the photos were in the camera, be
 
 After the photos were shown, people couldn't believe their eyes. Vehicles, roads and people all come from the 50s. Not only that, in Sergei's film there are also buildings before being included in city planning. Of course, the photo of the strange object was also found, and Sergei was not lying.
 
-![clues](sample.jpeg#center "clues")
-
 Not only that, normally, these types of photos are usually kept for about 2-3 years at normal temperatures. If you want to keep it longer, the film rolls need to be placed in a low temperature and dry space. However, even with this method, the tapes are only kept for 20 years. Along with that, the image quality of the film rolls will be significantly reduced after being left for too long. However, Sergei's roll of film from 1958, after being developed, produced very high-quality images. That shows that these photos were only taken recently.
 
 After a long day of interviews, Sergei was taken to the hospital room and carefully guarded to rest. The next morning, the nurse was planning to wake Sergei up for breakfast and further examination. However, he was not there. Just as he appeared, Sergei Ponomarenko has disappeared without a trace.
 
 After the disappearance of Sergei Ponomarenko, the only clues the police had were a camera and pictures developed from film rolls. At the same time, inspectors also began looking for other clues in the developed photos. Thanks to that, they found another connection of Sergei from the past, his girlfriend, Valentina, now 70 years old.
-
-![girl's friens](sample.jpeg#center "girl's friens")
 
 She recalled that her ex-lover suddenly disappeared one day in 1958 but returned within a few days.
 
