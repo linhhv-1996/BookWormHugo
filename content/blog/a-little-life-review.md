@@ -2,7 +2,7 @@
 title: "A Little Life Review"
 date: 2024-05-07T11:33:57+06:00
 tags: ["Book"]
-image: images/post/10.png
+image: images/post/10.webp
 author: "Lubana Era"
 ---
 

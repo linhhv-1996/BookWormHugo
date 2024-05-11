@@ -2,7 +2,7 @@
 title: "Zero-based Budget"
 date: 2024-05-07T11:33:57+06:00
 tags: ["Financial Management"]
-image: images/post/13.png
+image: images/post/13.webp
 author: "Lubana Era"
 ---
 

@@ -2,7 +2,7 @@
 title: "Time Traveler"
 date: 2024-05-02T11:33:57+06:00
 tags: ["Science", "History"]
-image: images/post/18.png
+image: images/post/18.webp
 author: "Lubana Era"
 ---
 

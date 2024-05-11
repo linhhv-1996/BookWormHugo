@@ -1,7 +1,7 @@
 ---
 title: "Steve Jobs: A Man Who Dare To Be Simple"
 date: 2024-05-06T11:33:57+06:00
-image: images/post/14.png
+image: images/post/14.webp
 tags: ["Steve Jobs", "Apple"]
 author: "Lubana Era"
 ---

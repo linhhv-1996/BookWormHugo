@@ -2,7 +2,7 @@
 title: "Steps Toward Financial Freedom"
 date: 2024-05-09T11:33:57+06:00
 tags: ["Financial Management"]
-image: images/post/08.png
+image: images/post/08.webp
 author: "Lubana Era"
 ---
 

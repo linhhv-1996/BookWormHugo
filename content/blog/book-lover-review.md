@@ -1,7 +1,7 @@
 ---
 title: "Book Lovers"
 date: 2024-05-05T11:33:57+06:00
-image: images/post/15.png
+image: images/post/15.webp
 tags: ["Book"]
 author: "Lubana Era"
 ---

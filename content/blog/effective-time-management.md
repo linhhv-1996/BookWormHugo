@@ -1,7 +1,7 @@
 ---
 title: "Effective Time Management"
 date: 2024-05-07T11:33:57+06:00
-image: images/post/11.png
+image: images/post/11.webp
 tags: ["Time Management"]
 author: "Lubana Era"
 ---

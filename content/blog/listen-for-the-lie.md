@@ -3,7 +3,7 @@ title: "Listen For The Lie"
 date: 2024-05-04T11:33:57+06:00
 tags: ["Book"]
 author: "Lubana Era"
-image: images/post/17.png
+image: images/post/17.webp
 ---
 ### Publisher's summary
 

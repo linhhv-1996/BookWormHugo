@@ -21,10 +21,17 @@
 
   {{ "<!-- CSS Plugins -->" | safeHTML}}
   {{ partialCached "style.html" . }}
+
   <!-- google analytics -->
-  {{ if hasPrefix .Site.GoogleAnalytics "G-" -}}
-    {{ partials "google_analytics.html" . -}}
-  {{ else -}}
-    {{ partials "google_analytics_async.html" . -}}
-  {{ end -}}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6H46KNRCC3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-6H46KNRCC3');
+  </script>
+  <meta name="msvalidate.01" content="ED299E94CC7ACA063FCBFD57937BDEA2" />
+
 </head>
