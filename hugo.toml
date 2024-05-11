@@ -1,6 +1,7 @@
 ######################## default configuration ####################
-baseURL = "http://localhost:1313/"
-title = "Bookworm - Personal Blog Template"
+baseURL = "https://wordwhisperer.co/"
+title = "wordwhisperer.co - Making money, Digital Marketing, Personal Development"
+
 theme = "bookworm"
 # post pagination
 paginate = "5"
@@ -8,8 +9,6 @@ paginate = "5"
 summaryLength = "20"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
-# disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 
 ############################# Modules ##############################
 [module.hugoVersion]
@@ -78,8 +77,8 @@ logo = "images/logo.png"
 logo_width = "200px"
 favicon = "images/favicon.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Share knowledge about making money, digital marketing, personal financial management, and personal development"
+author = "wordwhisperer.co"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
@@ -87,7 +86,7 @@ search = true
 # main section
 mainSections = ["blog"]
 # copyright
-copyright = "Designed & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed & Developed By [wordwhisperer.co](https://wordwhisperer.co/)"
 
 # Preloader
 [params.preloader]
@@ -97,15 +96,15 @@ preloader = "" # use jpg, png, svg or gif format.
 # Instagram feed
 [params.instafeed]
 enable = false
-instagram_user = "bookworm"
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+instagram_user = ""
+access_token = ""
 
 # Subscription
 [params.subscription]
 enable = true
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"                                                           # replace this code with yours
+mailchimp_form_action = "" # replace this url with yours
+mailchimp_form_name = ""                                                           # replace this code with yours
 title = "Subscribe for our monthly newsletter."
 input_placeholder = "Enter your email"
 
@@ -132,46 +131,51 @@ url = "contact/"
 weight = 4
 
 [[menu.main]]
-weight = 5
-url = "#"
-name = "Pages"
-hasChildren = true
-
-[[menu.main]]
-parent = "Pages"
-name = "Author"
-url = "author/"
-weight = 1
-
-[[menu.main]]
-parent = "Pages"
 name = "Tags"
 url = "tags/"
-weight = 2
-
-[[menu.main]]
-parent = "Pages"
-name = "Category"
-url = "categories/"
-weight = 3
-
-[[menu.main]]
-parent = "Pages"
-name = "Elements"
-weight = 4
-url = "elements/"
-
-[[menu.main]]
-parent = "Pages"
-name = "Privacy"
-url = "privacy/"
 weight = 5
 
-[[menu.main]]
-parent = "Pages"
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 6
+# [[menu.main]]
+# weight = 5
+# url = "#"
+# name = "Pages"
+# hasChildren = true
+
+# [[menu.main]]
+# parent = "Pages"
+# name = "Author"
+# url = "author/"
+# weight = 1
+
+# [[menu.main]]
+# parent = "Pages"
+# name = "Tags"
+# url = "tags/"
+# weight = 2
+
+# [[menu.main]]
+# parent = "Pages"
+# name = "Category"
+# url = "categories/"
+# weight = 3
+
+# [[menu.main]]
+# parent = "Pages"
+# name = "Elements"
+# weight = 4
+# url = "elements/"
+
+# [[menu.main]]
+# parent = "Pages"
+# name = "Privacy"
+# url = "privacy/"
+# weight = 5
+
+# [[menu.main]]
+# parent = "Pages"
+# name = "Terms & Conditions"
+# url = "terms-conditions/"
+# weight = 6
 
 ############################# Footer Menu ########################
 [[menu.footer]]

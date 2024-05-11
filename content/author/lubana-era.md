@@ -1,18 +1,21 @@
 ---
-title: "Lubana Era"
+title: "Hoanglinh"
 image: "images/author/author.jpg"
-email: "abdulmonnafsomrat@gmail.com"
+email: "linhhv.work@gmail.com"
 date: 2021-01-26T10:14:19+06:00
 draft: false
 social:
-- icon: "la-facebook-f"
-  link: "https://facebook.com"
+- icon: "la-instagram"
+  link: "https://www.instagram.com/pi_on_inst/"
 - icon: "la-twitter"
-  link: "https://twitter.com"
+  link: "https://twitter.com/linhhv_me"
 - icon: "la-linkedin-in"
-  link: "https://linkedin.com"
+  link: "https://www.linkedin.com/in/hoang-van-linh-173362256/"
 ---
 
-Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+Thank you for visiting home.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+I feel honored to be a part of your learning and growth journey. Your time and mental resources are extremely valuable, so I will do my best to make every moment you are here worth.
+
+I sincerely hope that you will have enjoyable moments reading my articles. If you find something useful for you then I’m happy. 
+Please message me via email linhhv.work@gmail.com.
