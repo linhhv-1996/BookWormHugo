@@ -1,7 +1,7 @@
 ---
 title: "Psychology Of Procrastination"
 date: 2024-05-10T11:33:57+06:00
-tags: ["Psychology", "Self Improvement"]
+tags: ["Psychology", "Self Improvement", "Habit"]
 image: images/post/19.webp
 author: "Lubana Era"
 summary: "I have procrastinated on this task from Friday to Saturday to demonstrate my devotion to the Procrastination faith, where I am a lifelong follower."
@@ -130,7 +130,7 @@ You break down the timelines for completing each piece of work (as in item 2) so
 
 ### Epilogue
 
-**Procrastination is a [habit that can be changed]().**
+**Procrastination is a [habit that can be changed](/blog/how-to-change-habits/).**
 
 The four main causes of procrastination are low perceived value, low perceived competence, environments that tempt impulsivity, and long deadlines. To overcome procrastination, accept it without judgment, find out the cause, and create your own solution.
 
