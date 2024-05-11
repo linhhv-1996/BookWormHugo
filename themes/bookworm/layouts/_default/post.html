@@ -1,8 +1,27 @@
 <article class="card post-card">
   {{if .Params.image}}
+  <div class="slide">
   <a href="{{.Permalink}}">
     {{ partial "image.html" (dict "Src" .Params.image "Class" "w-100 h-auto rounded" "Alt" .Title) }}
   </a>
+  </div>
+
+  <style>
+    .slide {
+      overflow: hidden;
+      border-radius: 10px;
+    }
+
+    .slide img {
+      object-fit: cover;
+      transition: all .3s ease;
+    }
+
+    .slide img:hover {
+      transform: scale(1.03);
+    }
+  </style>
+
   {{end}}
   <div class="card-body">
     <ul class="card-meta list-inline mb-2">

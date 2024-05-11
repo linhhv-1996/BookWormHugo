@@ -7,9 +7,12 @@
         <div class="row">
           {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
           {{range $index, $items := $paginator.Pages}}
-          <div class="{{ if (eq $index 0) }}col-lg-12{{ else }}col-lg-6{{ end }}">
+          
+          <div class="{{ if (le $index 0) }}col-lg-12{{ else }}col-lg-6{{ end }}">
             {{.Render "post"}}
           </div>
+
+
           {{end}}
         </div>
 
