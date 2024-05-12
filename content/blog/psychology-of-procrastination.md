@@ -1,6 +1,6 @@
 ---
 title: "Psychology Of Procrastination"
-date: 2024-05-10T11:33:57+06:00
+date: 2024-05-11T11:33:57+06:00
 tags: ["Psychology", "Self Improvement", "Habit"]
 image: images/post/19.webp
 author: "Lubana Era"
